@@ -45,7 +45,7 @@ const page = () => {
       <div className='text-white text-xl md:text-2xl font-bold mt-8 md:mt-16'>What You'll Find Here</div>
         <div className='text-neutral-400 text-sm md:text-lg leading-relaxed md:leading-loose my-4 md:my-2 md:mb-32 mb-24'>
         <ul className='space-y-4'>
-            <li><strong className='text-neutral-300'>Informative Articles:</strong> Dive into our extensive collection of informative articles covering a wide range of <Span children="Technical topics"></Span>. From beginner's guides to advanced techniques, there's something for everyone.</li>
+            <li><strong className='text-neutral-300'>Informative Articles:</strong> Dive into our extensive collection of informative articles covering a wide range of <Span>Technical topic</Span>. From beginner's guides to advanced techniques, there's something for everyone.</li>
             <li><strong className='text-neutral-300'>Inspiring Stories:</strong> Discover real-life stories from individuals who have found joy, success, and fulfillment through their Tech journey. Get motivated and inspired to pursue your own passions.</li>
             <li><strong className='text-neutral-300'>Trending Topics:</strong> Stay up-to-date with the latest trends, news, and developments in the dynamic world of Technology. We keep our finger on the pulse to bring you the freshest content.</li>
             <li><strong className='text-neutral-300'>How-To Guides:</strong> Learn the ropes with our step-by-step how-to guides. Whether you're a novice or an expert, you'll find valuable insights to enhance your Tech experience.</li>
