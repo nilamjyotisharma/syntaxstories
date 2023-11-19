@@ -18,7 +18,7 @@ const NavBar = () => {
         <div className=''>
             <div>
                 <ul className='flex justify-evenly text-neutral-400 md:mx-0 items-center'>
-                    <Link href="/"><Image src='/logo.png' width={200} height={200} className='h-[2rem] w-[3rem] mr-2' /></Link>
+                    <Link href="/"><Image src='/logo.png' width={200} height={200} alt='Image not found' className='h-[2rem] w-[3rem] mr-2' /></Link>
                     <Link href="/"><li className={`hover:text-white duration-300 drop-shadow-2xl ${pathname === '/' ? 'text-white' : ''} hover:scale-105`}>Home</li></Link>
                     <Link href="/blog"><li className={`hover:text-white duration-300 drop-shadow-2xl ${pathname === '/blog' ? 'text-white' : ''} hover:scale-105`}>Blog</li></Link>
                     <Link href="/about"><li className={`hover:text-white duration-300 drop-shadow-2xl ${pathname === '/about' ? 'text-white' : ''} hover:scale-105`}>About</li></Link>

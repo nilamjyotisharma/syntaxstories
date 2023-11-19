@@ -17,7 +17,7 @@ const page = () => {
         <h1 className="text-white text-3xl md:text-[2.8rem] font-bold">Hey<span>👋</span>, I am Nilam</h1>
         <div className='md:flex flex-row-reverse gap-10 items-end md:mb-24 mb-16'>
 
-        <Image src='/heroImg.jpg' width={200} height={200} className='h-[14rem] w-[11rem] rounded-xl mt-8' />
+        <Image src='/heroImg.jpg' width={200} height={200} alt='Image not found' className='h-[14rem] w-[11rem] rounded-xl mt-8' />
 
 
         <div>
