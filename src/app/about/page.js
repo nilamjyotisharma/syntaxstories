@@ -50,7 +50,7 @@ const page = () => {
 
             <h1 className='text-neutral-300 mt-24 text-lg text-end'>
             Happy reading,<br/>
-            The Nilam's Blog Team
+            The Syntax Stories Team
             </h1>
 
         </div>

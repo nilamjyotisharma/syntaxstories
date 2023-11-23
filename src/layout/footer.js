@@ -28,11 +28,11 @@ const Footer = () => {
             <div className=''>
                 <ul className='flex justify-evenly text-neutral-300 text-3xl m-12'>
 
-                    <Link href="/"><li className={`hover:text-white duration-300 drop-shadow-2xl hover:scale-105`}><FaTwitter /></li></Link>
-                    <Link href="/blog"><li className={`hover:text-white duration-300 drop-shadow-2xl hover:scale-105`}><FaLinkedin /></li></Link>
-                    <Link href="/about"><li className={`hover:text-white duration-300 drop-shadow-2xl hover:scale-105`}><FaGithub /></li></Link>
-                    <Link href="/contact"><li className={`hover:text-white duration-300 drop-shadow-2xl hover:scale-105`}><FaFacebookSquare /></li></Link>
-                    <Link href="/contact"><li className={`hover:text-white duration-300 drop-shadow-2xl hover:scale-105`}><SiGmail /></li></Link>
+                    <Link href="https://twitter.com/NilamJtiSharma" target='blank'><li className={`hover:text-white duration-300 drop-shadow-2xl hover:scale-105`}><FaTwitter /></li></Link>
+                    <Link href="https://www.linkedin.com/in/nilam-jyoti-sharma-2912681aa/" target='blank'><li className={`hover:text-white duration-300 drop-shadow-2xl hover:scale-105`}><FaLinkedin /></li></Link>
+                    <Link href="https://github.com/nilamjyotisharma" target='blank'><li className={`hover:text-white duration-300 drop-shadow-2xl hover:scale-105`}><FaGithub /></li></Link>
+                    <Link href="https://www.facebook.com/nilamjyoti.sharma" target='blank'><li className={`hover:text-white duration-300 drop-shadow-2xl hover:scale-105`}><FaFacebookSquare /></li></Link>
+                    <Link href="mailto:nilamjyotisharma2000@gmail.com"><li className={`hover:text-white duration-300 drop-shadow-2xl hover:scale-105`}><SiGmail /></li></Link>
 
                 </ul>
             </div>
