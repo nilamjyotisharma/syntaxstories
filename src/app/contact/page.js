@@ -19,7 +19,7 @@ const page = () => {
     <div className='mt-16 md:mt-28 mb-24'>
     <div className="text-white text-xl md:text-[2.9rem] font-bold"> Connect With Us </div>
 
-<div className='text-neutral-400 text-sm md:text-lg leading-relaxed md:leading-loose my-4 md:my-8'>We love hearing from our readers! Connect with us on <Span children="LinkedIn"></Span> to join the conversation, share your thoughts, and stay updated on the latest Tech happenings.
+<div className='text-neutral-400 text-sm md:text-lg leading-relaxed md:leading-loose my-4 md:my-8'>We love hearing from our readers! Connect with us on <Span>LinkedIn</Span> to join the conversation, share your thoughts, and stay updated on the latest Tech happenings.
 
 Thank you for being a part of the Syntax Stories community. We're thrilled to embark on this Tech journey with you!</div>
 
